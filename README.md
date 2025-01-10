@@ -231,3 +231,6 @@ Detalles_Pedido, en un sólo conjunto de resultados.
 
 5. Utiliza CROSS JOIN para generar todas las posibles combinaciones entre los 
 nombres de usuario de la tabla Usuarios y los nombres de producto de la tabla Productos.
+
+MODULO 5
+La creacion de bases de datos esta en el codigo de mi proyecto.
